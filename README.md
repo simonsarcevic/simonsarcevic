@@ -18,7 +18,7 @@
 
 **Backend**
 
-[![Languages (dark)](https://skillicons.dev/icons?i=cs,java,nodejs,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages (dark)](https://skillicons.dev/icons?i=cs,java,node,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 [![Languages (dark)](https://skillicons.dev/icons?i=js,ts,php,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 **Databases**
