@@ -10,8 +10,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Skills</h3>
+## Stack
 
-** Backend **
+**Frontend**
 [![Languages (dark)](https://skillicons.dev/icons?i=html,css,angular,react=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![Languages (light)](https://skillicons.dev/icons?i=cs,clojure,ts,java,kotlin,lua&perline=3&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
