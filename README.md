@@ -27,3 +27,8 @@
 **Databases**
 
 [![Databases (dark)](https://skillicons.dev/icons?i=sqlite,mysql,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+
+
+**Devops**
+
+[![Databases (dark)](https://skillicons.dev/icons?i=aws,netlify,docker,jenkins,bash,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
