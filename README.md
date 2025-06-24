@@ -14,7 +14,7 @@
 
 **Frontend**
 
-[![Languages (dark)](https://skillicons.dev/icons?i=html,css,angular,react,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages (dark)](https://skillicons.dev/icons?i=html,css,angular,react,=3&theme=dark#gh-dark-mode-only)](https://google.de)
 
 
 **Backend**
