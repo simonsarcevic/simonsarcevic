@@ -31,4 +31,11 @@
 
 **Devops**
 
-[![Databases (dark)](https://skillicons.dev/icons?i=aws,netlify,docker,jenkins,bash,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Databases (dark)](https://skillicons.dev/icons?i=aws,netlify,docker,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+
+[![Databases (dark)](https://skillicons.dev/icons?i=jenkins,bash,bitbucket,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+
+
+**Other**
+
+[![Databases (dark)](https://skillicons.dev/icons?i=linux,git,kali,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
