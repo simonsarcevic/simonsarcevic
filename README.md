@@ -11,6 +11,7 @@
 </p>
 
 <h3 align="left">Skills</h3>
-<hr>
-<h3 algin="left">Frontend</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular_dark)](https://skillicons.dev)
+
+** Backend **
+[![Languages (dark)](https://skillicons.dev/icons?i=html,css,angular,react=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages (light)](https://skillicons.dev/icons?i=cs,clojure,ts,java,kotlin,lua&perline=3&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
