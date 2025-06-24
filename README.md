@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A fullstack developer from Germany</h3>
 
-- 🔭 I’m currently working at [NOVASTUDY](novastudy.de) / [AMCON](amcon.de)
+- 🔭 I’m currently working at [NOVASTUDY](https://novastudy.de) / [AMCON](https://amcon.de)
 
 - 🌱 I’m currently learning **Angular**
 
