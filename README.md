@@ -39,3 +39,11 @@
 **Other**
 
 [![Databases (dark)](https://skillicons.dev/icons?i=linux,git,kali,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+
+
+## Stats
+
+[![GitHub stats (dark)](https://github-readme-stats.vercel.app/api?username=simonsarcevic&hide=stars&hide_title=true&show_icons=true&theme=catppuccin_mocha&border_radius=8.0&line_height=24#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats (light)](https://github-readme-stats.vercel.app/api?username=simonsarcevic&hide=stars&hide_title=true&show_icons=true&rank_icon=default&theme=catppuccin_latte&border_radius=8.0&line_height=24#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs (dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=simonsarcevic&size_weight=0.5&count_weight=0.5&layout=compact&hide_title=true&exclude_repo=CommunityForum,CommunityForum-Backend&theme=catppuccin_mocha&border_radius=8.0#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs (light)](https://github-readme-stats.vercel.app/api/top-langs/?username=simonsarcevic&size_weight=0.5&count_weight=0.5&layout=compact&hide_title=true&exclude_repo=CommunityForum,CommunityForum-Backend&theme=catppuccin_latte&border_radius=8.0#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
