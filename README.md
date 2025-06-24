@@ -14,16 +14,16 @@
 
 **Frontend**
 
-[![Languages (dark)](https://skillicons.dev/icons?i=html,css,angular,react=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages (dark)](https://skillicons.dev/icons?i=html,css,angular,react,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 
 **Backend**
 
-[![Languages (dark)](https://skillicons.dev/icons?i=cs,java,nodejs=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages (dark)](https://skillicons.dev/icons?i=cs,java,nodejs,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
-[![Languages (dark)](https://skillicons.dev/icons?i=js,ts,php=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages (dark)](https://skillicons.dev/icons?i=js,ts,php,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 
 **Databases**
 
-[![Databases (dark)](https://skillicons.dev/icons?i=sqlite,mysql=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Databases (dark)](https://skillicons.dev/icons?i=sqlite,mysql,=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
