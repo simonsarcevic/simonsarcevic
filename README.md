@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **simon.sarcevic@novastudy.de**
+- 📫 How to reach me **kontakt@simonsarcevic.de**
 
 <p align="left">
 </p>
