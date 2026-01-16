@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [NOVASTUDY](https://novastudy.de) / [AMCON](https://amcon.de)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **kontakt@simonsarcevic.de**
 
