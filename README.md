@@ -34,7 +34,6 @@
 [![Databases (dark)](https://skillicons.dev/icons?i=aws,netlify,docker,=3&theme=dark#gh-dark-mode-only)]()
 
 [![Databases (dark)](https://skillicons.dev/icons?i=jenkins,bash,bitbucket,supabase=3&theme=dark#gh-dark-mode-only)]()
-[![Databases (dark)](https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg)]()
 
 **Other**
 
